@@ -1,0 +1,11 @@
+.cart-items{
+	width: 1200px;
+	height: auto;
+	background-color: bisque;
+	margin: 20px 0px 0px 30px;
+}
+table,td{
+	width: 700px;
+	height: auto;
+	border: 1px solid black;
+}
